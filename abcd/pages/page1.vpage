@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:vuidesigner="http://www.voxana.com/vuidesigner">
+  <vuidesigner:Document xmi:id="_nP3hsNh6EeKOXL-5zVbvAw">
+    <documentNodes xmi:type="vuidesigner:DataLookup" xmi:id="_Re3PMArdEeORVMD821Dgmw" name="0100_DataLookup"/>
+    <documentNodes xmi:type="vuidesigner:GenericElement" xmi:id="_cRUsMArdEeORVMD821Dgmw" name="0105_GenericElement" prompt="" content=""/>
+    <startPoint xmi:type="vuidesigner:StartPoint" xmi:id="_-ILHUArcEeORVMD821Dgmw" name="0100_CallStart"/>
+  </vuidesigner:Document>
+  <notation:Diagram xmi:id="_nP9BQNh6EeKOXL-5zVbvAw" type="Vuidesigner" element="_nP3hsNh6EeKOXL-5zVbvAw" name="page1.vpage" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_-INjkArcEeORVMD821Dgmw" type="2010" element="_-ILHUArcEeORVMD821Dgmw" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_-INjkgrcEeORVMD821Dgmw" type="5010"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-INjkQrcEeORVMD821Dgmw" x="338" y="53"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_Re4dUArdEeORVMD821Dgmw" type="2015" element="_Re3PMArdEeORVMD821Dgmw" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_Re5EYArdEeORVMD821Dgmw" type="5015"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Re4dUQrdEeORVMD821Dgmw" x="375" y="209"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_cRVTQArdEeORVMD821Dgmw" type="2017" element="_cRUsMArdEeORVMD821Dgmw" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_cRWhYArdEeORVMD821Dgmw" type="5017"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_cRVTQQrdEeORVMD821Dgmw" x="686" y="135"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_nP9BQdh6EeKOXL-5zVbvAw"/>
+  </notation:Diagram>
+</xmi:XMI>
